@@ -4,9 +4,9 @@
 - School experience with Java, C & C#
 
 #### Dev hobbies
+- Blockchain dApps
 - Game mods
 - Home projects (raspberry pi)
-- Blockchain dApps
 
 #### General hobbies
 - Management & platformer games
